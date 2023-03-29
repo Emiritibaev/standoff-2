@@ -1,0 +1,46 @@
+img{
+    width:100% ;
+    border-radius: 50px;
+}    
+h1{
+    color: aqua;
+    text-decoration:underline ;
+    text-align: center;
+    text-transform: uppercase;
+    text-shadow :3px 3px 3px blue ; 
+}
+p{
+   text-indent: 30px;
+   font-size:  18px;
+}
+.block{
+    width: 800px;
+    margin: auto;
+    border:2px solid rebeccapurple ;
+    border-radius: 15px ;
+    padding: 20px;
+background-color: rgb(251, 253, 253);
+    
+
+}
+.text{
+    color: brown;
+    text-decoration:underline ;
+    font-weight: bold;
+    color: brown;
+}
+.link{
+    text-align:right;
+}
+.lang{
+    color: rgb(252, 0, 176);
+}
+.head{
+    color: turquoise;
+}
+body{
+    background:url("https://photocasa.ru/uploads/posts/2022-07/1657184165_gudinalv_nevesomost_nature-aesthetic_ljudmila-gudina-ljudmila-vitalevna-gudina.jpg") ;
+    background-size: cover ;
+    background-attachment:scroll;
+    
+}
